@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Alexandre Blanc"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate - Physics of Behavior and Neural Systems"
+  bio              : "PhD - Physics of Behavior and Neural Systems"
   location         : "Paris, France"
   employer         : "Insitut Pasteur"
   uri              : # URL
@@ -81,12 +81,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  thesis:
+    title: 'Thesis'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
