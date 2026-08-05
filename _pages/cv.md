@@ -11,35 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2021 - 2025 : PhD in physics at Paris Sciences et Lettres and Pasteur Insitute, Paris, France
+  Behavior modelling using deep autoencoders, biomechanical modelling with the finite element method, neural circuit modelling with rate models.
+  Supervised by Jean-Baptiste Masson and Christian Vestergaard.
+
+* 2019 : Engineer Degree at ENSTA, Palaiseau, France, major in Optimization for Data Science
+
+* 2016 - 2019 : Engineer Degree at Ecole polytechnique, Palaiseau, France, major in mathematics
+
+* 2014 - 2016 : Preparatory Classes at Lycée Louis-le-Grand, Paris, France, undergraduate program in physics, mathematics and computer science
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Under construction
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Under construction
 
 Publications
 ======
@@ -53,12 +42,6 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+Under construction
