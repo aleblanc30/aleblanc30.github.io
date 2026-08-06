@@ -15,4 +15,4 @@ I use quantitative methods to study behavior and neural computation in Drosophil
 
 I successfully defended my PhD in physics on December 5th, 2025.
 
-I am interested in the brain and behavior as dynamical systems, social behavior, long term planning, scientific machine learning, agentic systems for scientific research, complex systems, philosophy of mind, philosophy of science and metaphysics.
+I am interested in the brain and behaviour as dynamical systems, social behavior, long term planning, scientific machine learning, agentic systems for scientific research, complex systems, philosophy of mind, philosophy of science, and a lot of other things.
