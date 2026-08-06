@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download a [pdf version](/files/cv.pdf) of my CV.
+
 Education
 ======
 * 2021 - 2025 : PhD in physics at Paris Sciences et Lettres and Pasteur Insitute, Paris, France
