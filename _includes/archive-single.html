@@ -56,13 +56,16 @@
     {%- assign parts = "" -%}
     {%- for def in linkdefs -%}
         {%- assign d = def | split: "," -%}
-        {%- assign url = post[d[0]] -%}
+        {%- assign key = d[0] -%}
+        {%- assign label = d[1] -%}
+        {%- assign url = post[key] -%}
         {%- if url -%}
             {%- assign parts = parts | append: '<a href="' | append: url | append: '">' | append: d[1] | append: '</a>@@' -%}
         {%- endif -%}
     {%- endfor -%}
     {%- assign links = parts | split: "@@" | join: " | " -%}
 
+    <!-- parts: [{{ parts }}] links: [{{ links }}] paperurl: [{{ post.paperurl }}] -->
     {%- if post.citation or links != "" -%}
       <p>
         {%- if post.citation -%}
