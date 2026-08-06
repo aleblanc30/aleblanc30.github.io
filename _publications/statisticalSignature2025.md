@@ -12,6 +12,6 @@ date: 2025-04-21
 venue: 'PLOS Computational Biology'
 paperurl: 'https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012990'
 bibtexurl: '/files/statisticalSignature2025.bib'
-citation: 'Blanc A, Laurent F, Barbier-Chebbah A, Van Assel H, Cocanougher BT, Jones BM, et al. (2025) Statistical signature of subtle behavioral changes in large-scale assays. <i>PLoS Comput Biol 21(4)</i>: e1012990. [https://doi.org/10.1371/journal.pcbi.1012990](https://doi.org/10.1371/journal.pcbi.1012990).'
+citation: 'Blanc A, Laurent F, Barbier-Chebbah A, Van Assel H, Cocanougher BT, Jones BM, et al. (2025) Statistical signature of subtle behavioral changes in large-scale assays. <i>PLoS Comput Biol 21(4)</i>: e1012990. https://doi.org/10.1371/journal.pcbi.1012990.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
